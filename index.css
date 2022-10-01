@@ -1,0 +1,17 @@
+body {
+    background-color: #35263b;
+    border: 5px solid #9ca3af;
+}
+.blue_box {
+    display: block;
+    clear:both;
+}
+
+.blue_box {
+    background-color: #4b3c52;
+    color: white;
+    border: 5px solid #9ca3af;
+    padding: 100px 50px;
+    display: block;
+    float: center;
+}

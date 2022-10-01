@@ -1,0 +1,11 @@
+{
+"name": "encrypt coolelectronics.me",
+"version": "1.7.9",
+"description": "encrypts your coolelectronics.me messages using aes",
+"manifest_version": 3,
+"author": "takenthemickout",
+"action":{
+    "default_popup": "index.html",
+    "default_title": "encrypt coolelectronics.me message"
+}
+}
